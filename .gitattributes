@@ -1,0 +1,2 @@
+*.rdl -text
+*.sql text eol=lf

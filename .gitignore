@@ -1,0 +1,20 @@
+# --- Secretos y credenciales (nunca versionar) ---
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+secrets.*
+*credentials*
+*.publishsettings
+
+# --- Sistema / editor ---
+.vs/
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+desktop.ini
+
